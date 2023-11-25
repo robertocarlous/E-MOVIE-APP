@@ -1,0 +1,265 @@
+
+  [
+      {
+        "title": "The Mystery of the Lost City",
+        "description": "A group of explorers embarks on a thrilling adventure to uncover the secrets of a hidden civilization.",
+        "author": "John Anderson",
+        "category": "Adventure",
+        "rating": 7.8,
+        "language": "English",
+        "availability": "out of stock",
+        "year": 2022
+      },
+      {
+        "title": "Love in Paris",
+        "description": "A romantic drama set in the picturesque streets of Paris, where two lovers navigate the challenges of their relationship.",
+        "author": "Sarah Johnson",
+        "category": "Romance",
+        "rating": 6.9,
+        "language": "French",
+        "availability": "in stock",
+        "year": 2020
+      },
+      {
+        "title": "Edge of the Universe",
+        "description": "A mind-bending science fiction epic following the journey of a crew stranded on the edge of the universe.",
+        "author": "Michael Carter",
+        "category": "Science Fiction",
+        "rating": 8.2,
+        "language": "English",
+        "availability": "in stock",
+        "year": 2021
+      },
+      {
+        "title": "The Last Heist",
+        "description": "A gripping crime thriller about a master thief planning his final, most daring heist.",
+        "author": "David Thompson",
+        "category": "Crime",
+        "rating": 7.5,
+        "language": "English",
+        "availability": "in stock",
+        "year": 2019
+      },
+      {
+        "title": "The Forgotten Realm",
+        "description": "In a mystical land, a young hero must embark on a perilous quest to save his kingdom from an ancient evil.",
+        "author": "Jessica Roberts",
+        "category": "Fantasy",
+        "rating": 7.9,
+        "language": "English",
+        "availability": "in stock",
+        "year": 2023
+      },
+      {
+        "title": "Silent Whispers",
+        "description": "A psychological thriller centered around a series of mysterious disappearances in a small town.",
+        "author": "Emily White",
+        "category": "Thriller",
+        "rating": 8.1,
+        "language": "English",
+        "availability": "in stock",
+        "year": 2022
+      },
+      {
+        "title": "The Art of Deception",
+        "description": "A con artist and a brilliant detective engage in a high-stakes game of cat and mouse.",
+        "author": "Christopher Lee",
+        "category": "Crime",
+        "rating": 7.6,
+        "language": "English",
+        "availability": "in stock",
+        "year": 2020
+      },
+      {
+        "title": "A Tale of Two Worlds",
+        "description": "Two parallel universes collide, forcing two individuals from different worlds to work together to restore balance.",
+        "author": "Alexandra Carter",
+        "category": "Science Fiction",
+        "rating": 8.3,
+        "language": "English",
+        "availability": "in stock",
+        "year": 2021
+      },
+      {
+        "title": "Beyond the Horizon",
+        "description": "A group of astronauts embarks on an interstellar journey to find a new home for humanity.",
+        "author": "Michael Johnson",
+        "category": "Science Fiction",
+        "rating": 8.5,
+        "language": "English",
+        "availability": "in stock",
+        "year": 2023
+      },
+      {
+        "title": "Shadows of the Past",
+        "description": "A gripping drama exploring the complex relationships and dark secrets within a wealthy family.",
+        "author": "Julia Thompson",
+        "category": "Drama",
+        "rating": 7.7,
+        "language": "English",
+        "availability": "in stock",
+        "year": 2019
+      },
+      {
+        "title": "The Enigma Code",
+        "description": "Based on true events, this historical thriller follows a team of codebreakers during World War II.",
+        "author": "Andrew Davis",
+        "category": "Historical",
+        "rating": 8.0,
+        "language": "English",
+        "availability": "out of stock",
+        "year": 2021
+      },
+      {
+        "title": "Lost in the Wilderness",
+        "description": "A survival adventure about a group of hikers stranded in a vast, uncharted wilderness.",
+        "author": "Robert Anderson",
+        "category": "Adventure",
+        "rating": 7.4,
+        "language": "English",
+        "availability": "in stock",
+        "year": 2022
+      },
+      {
+        "title": "City of Dreams",
+        "description": "A captivating drama set in the glamorous world of aspiring actors and filmmakers in Hollywood.",
+        "author": "Sophia Evans",
+        "category": "Drama",
+        "rating": 7.9,
+        "language": "English",
+        "availability": "in stock",
+        "year": 2020
+      },
+      {
+        "title": "The Illusionist's Legacy",
+        "description": "A master illusionist passes down his secrets to a young apprentice, leading to a thrilling battle of magic.",
+        "author": "Jonathan Parker",
+        "category": "Fantasy",
+        "rating": 8.1,
+        "language": "English",
+        "availability": "in stock",
+        "year": 2021
+      },
+      {
+        "title": "A Deadly Affair",
+        "description": "A gripping crime drama exploring the dark underbelly of a city plagued by corruption and murder.",
+        "author": "Megan Thompson",
+        "category": "Crime",
+        "rating": 7.6,
+        "language": "English",
+        "availability": "in stock",
+        "year": 2023
+      },
+      {
+        "title": "Whispers in the Dark",
+        "description": "A psychological thriller about a psychiatrist who becomes entangled in a dangerous game of manipulation and deceit.",
+        "author": "Daniel White",
+        "category": "Thriller",
+        "rating": 8.2,
+        "language": "English",
+        "availability": "in stock",
+        "year": 2022
+      },
+      {
+        "title": "The Final Puzzle",
+        "description": "A master puzzle solver races against time to solve a series of enigmatic riddles and prevent a catastrophic event.",
+        "author": "Mark Thompson",
+        "category": "Mystery",
+        "rating": 8.0,
+        "language": "English",
+        "availability": "in stock",
+        "year": 2019
+      },
+      {
+        "title": "Inception",
+        "description": "A skilled thief is given a final chance to regain his old life as payment for a task considered to be impossible: 'inception', the implantation of another person's idea into a target's subconscious.",
+        "author": "Christopher Nolan",
+        "category": "Sci-Fi",
+        "rating": 8.8,
+        "language": "English",
+        "availability": "in stock",
+        "year": 2010
+      },
+      {
+        "title": "The Shawshank Redemption",
+        "description": "Two imprisoned men bond over several years, finding solace and eventual redemption through acts of common decency.",
+        "author": "Frank Darabont",
+        "category": "Drama",
+        "rating": 9.3,
+        "language": "English",
+        "availability": "in stock",
+        "year": 1994
+      },
+      {
+        "title": "The Dark Knight",
+        "description": "When the menace known as the Joker emerges from his mysterious past, he wreaks havoc and chaos on the people of Gotham. Batman must accept one of the greatest psychological and physical tests of his ability to fight injustice.",
+        "author": "Christopher Nolan",
+        "category": "Action",
+        "rating": 9.0,
+        "language": "English",
+        "availability": "in stock",
+        "year": 2008
+      },
+      {
+        "title": "Pulp Fiction",
+        "description": "The lives of two mob hitmen, a boxer, a gangster and his wife, and a pair of diner bandits intertwine in four tales of violence and redemption.",
+        "author": "Quentin Tarantino",
+        "category": "Crime",
+        "rating": 8.9,
+        "language": "English",
+        "availability": "in stock",
+        "year": 1994
+      },
+      {
+        "title": "Fight Club",
+        "description": "An insomniac office worker and a devil-may-care soapmaker form an underground fight club that evolves into something much, much more.",
+        "author": "David Fincher",
+        "category": "Drama",
+        "rating": 8.8,
+        "language": "English",
+        "availability": "in stock",
+        "year": 1999
+      },
+      {
+        "title": "Forrest Gump",
+        "description": "The presidencies of Kennedy and Johnson, the events of Vietnam, Watergate, and other history unfold through the perspective of an Alabama man with an IQ of 75, whose only desire is to be reunited with his childhood sweetheart.",
+        "author": "Robert Zemeckis",
+        "category": "Drama",
+        "rating": 8.8,
+        "language": "English",
+        "availability": "in stock",
+        "year": 1994
+      },
+      {
+        "title": "The Matrix",
+        "description": "A computer hacker learns from mysterious rebels about the true nature of his reality and his role in the war against its controllers.",
+        "author": "Lana Wachowski, Lilly Wachowski",
+        "category": "Sci-Fi",
+        "rating": 8.7,
+        "language": "English",
+        "availability": "in stock",
+        "year": 1999
+      },
+      {
+        "title": "Goodfellas",
+        "description": "The story of Henry Hill and his life in the mob, covering his relationship with his wife Karen Hill and his mob partners Jimmy Conway and Tommy DeVito in the Italian-American crime syndicate.",
+        "author": "Martin Scorsese",
+        "category": "Crime",
+        "rating": 8.7,
+        "language": "English",
+        "availability": "in stock",
+        "year": 1990
+      },
+      {
+        "title": "The Lord of the Rings: The Return of the King",
+        "description": "Gandalf and Aragorn lead the World of Men against Sauron's army to draw his gaze from Frodo and Sam as they approach Mount Doom with the One Ring.",
+        "author": "Peter Jackson",
+        "category": "Adventure",
+        "rating": 8.9,
+        "language": "English",
+        "availability": "in stock",
+        "year": 2003
+      }
+    ]
+
+  
