@@ -1,6 +1,6 @@
 const mongoose = require("mongoose"); //mongoose module from package.json 
 //const {importMovieToDB} = require("../script/moviescript");    
-const uri ="mongodb+srv://pabati4933:izjRLBeyz7XHBVsx@cluster0.ieqw1yz.mongodb.net/E-movie-app"
+const uri = process.env.URI
 
 
 async function connectDB() {
